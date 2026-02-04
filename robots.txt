@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cintialeite.vercel.app/sitemap.xml
